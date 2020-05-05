@@ -1,0 +1,8 @@
+
+bcm color
+8   left white
+25  left blue
+12  right blue
+13  right green
+18  right white
+19  right red
